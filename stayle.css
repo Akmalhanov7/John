@@ -1,0 +1,32 @@
+.home .home_img {
+  width: 300px;
+  border-radius: 150px;
+}
+
+.body {
+  background: #EDF7FA;
+}
+.body .caard {
+  background: #fff;
+  border-radius: 8px;
+}
+.body .bss {
+  border-right: solid black;
+}
+
+.contant .contant_img {
+  width: 400px;
+  height: 250px;
+}
+.contant .rgb {
+  color: #21243D;
+}
+.contant .rgb2 {
+  color: #8695A4;
+}
+.contant .sana {
+  padding: 2px 20px;
+  color: #fff !important;
+  background: #21243D;
+  border-radius: 100px;
+}/*# sourceMappingURL=stayle.css.map */
